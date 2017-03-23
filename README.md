@@ -33,4 +33,4 @@ At this point I am the only 3rd Party signer but we hope to collect more over ti
 
 | Escrow Agents Email |  Escrow Agents Stellar PublicId | Min Fee | Percent total Fee | Positive |  Negitive |
 |---------------------|---------------------------------|---------|-------------------|----------|-----------|
-| funtracker.site.escrow@gmail.com | GDOTBRNHFMTPHUSKHJNXEINFUL6WSM2O4H5I7ZAATEDUCXE6E4TWSECE | 10 | 0.0 | 0 | 0 |
+| funtracker.site.bank@gmail.com | GDOTBRNHFMTPHUSKHJNXEINFUL6WSM2O4H5I7ZAATEDUCXE6E4TWSECE | 10 | 0.0 | 0 | 0 |
